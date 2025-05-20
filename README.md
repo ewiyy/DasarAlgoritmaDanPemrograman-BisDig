@@ -23,7 +23,7 @@ Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
    ```bash
    python nilai_tertinggi.py
    
-2.  ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
+2. ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
 ### Deskripsi
 Program ini dibuat untuk membantu siswa mengetahui apakah mereka **LULUS** atau **TIDAK LULUS** berdasarkan rata-rata nilai dari 3 mata pelajaran.
 ### Syarat Kelulusan
