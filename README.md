@@ -22,7 +22,7 @@ Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
 2. Jalankan perintah:
    ```bash
    python nilai_tertinggi.py
-   
+
 2. ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
 ### Deskripsi
 Program ini dibuat untuk membantu siswa mengetahui apakah mereka **LULUS** atau **TIDAK LULUS** berdasarkan rata-rata nilai dari 3 mata pelajaran.
@@ -51,7 +51,7 @@ Status: LULUS
    ```bash
    python kelulusan.py
    
-3.  ## Program: Menghitung Faktorial dengan Rekursi
+3. ## Program: Menghitung Faktorial dengan Rekursi
 ### Deskripsi
 Program ini ditulis dalam bahasa Python untuk menghitung faktorial dari suatu bilangan menggunakan metode **rekursif**.
 ### Konsep
@@ -91,7 +91,7 @@ Total bayar : Rp540,000.00
    ```bash
    python diskon_ecommerce.py
 
-5.  ## Program: Menghitung Total Harga 3 Barang
+5. ## Program: Menghitung Total Harga 3 Barang
 ### Deskripsi
 Program ini merupakan sistem sederhana untuk membantu kasir menghitung total harga dari 3 barang yang dibeli oleh pelanggan.
 ### Langkah Algoritma
