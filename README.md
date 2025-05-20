@@ -1,5 +1,5 @@
 # DasarAlgoritmaDanPemrograman-BisDig
-1. ## Program: Mencari Nilai Tertinggi dari 5 Siswa
+## Program: Mencari Nilai Tertinggi dari 5 Siswa
 ### Deskripsi
 Program ini digunakan untuk menerima input nilai dari 5 siswa, lalu mencari dan menampilkan:
 - Nilai tertinggi
@@ -23,7 +23,7 @@ Nilai tertinggi adalah 90.0, didapat oleh siswa ke-3.
    ```bash
    python nilai_tertinggi.py
 
-2. ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
+ ## Program: Menentukan Kelulusan Berdasarkan Rata-Rata Nilai
 ### Deskripsi
 Program ini dibuat untuk membantu siswa mengetahui apakah mereka **LULUS** atau **TIDAK LULUS** berdasarkan rata-rata nilai dari 3 mata pelajaran.
 ### Syarat Kelulusan
@@ -51,7 +51,7 @@ Status: LULUS
    ```bash
    python kelulusan.py
    
-3. ## Program: Menghitung Faktorial dengan Rekursi
+ ## Program: Menghitung Faktorial dengan Rekursi
 ### Deskripsi
 Program ini ditulis dalam bahasa Python untuk menghitung faktorial dari suatu bilangan menggunakan metode **rekursif**.
 ### Konsep
@@ -70,7 +70,7 @@ Faktorial dari 5 adalah 120
    ```bash
    python faktorial.py
 
-4.  ## Program: Diskon 10% Jika Belanja > Rp500.000
+## Program: Diskon 10% Jika Belanja > Rp500.000
 ### Deskripsi
 Program ini digunakan dalam sistem e-commerce untuk menghitung total bayar pelanggan setelah diskon.  
 Pelanggan mendapatkan **diskon 10%** jika total belanja **lebih dari Rp500.000**.
@@ -91,7 +91,7 @@ Total bayar : Rp540,000.00
    ```bash
    python diskon_ecommerce.py
 
-5. ## Program: Menghitung Total Harga 3 Barang
+## Program: Menghitung Total Harga 3 Barang
 ### Deskripsi
 Program ini merupakan sistem sederhana untuk membantu kasir menghitung total harga dari 3 barang yang dibeli oleh pelanggan.
 ### Langkah Algoritma
